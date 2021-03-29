@@ -12,7 +12,7 @@
 	<artifactId>resource-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>resource-server</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Demo project for Spring Boot OAuth2</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
